@@ -559,7 +559,8 @@ impl AppSettings {
         // settings.json 保留用于旧版本迁移和无数据库场景
         Some(
             crate::config::get_home_dir()
-                .join(".cc-switch")
+                .join(".agent-box")
+                .join("config")
                 .join("settings.json"),
         )
     }

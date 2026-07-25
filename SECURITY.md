@@ -7,7 +7,7 @@ Only the latest release of CC Switch receives security updates.
 仅最新版本的 CC Switch 会收到安全更新。
 
 | Version / 版本 | Supported / 是否支持 |
-|----------------|---------------------|
+| -------------- | -------------------- |
 | Latest 3.x     | ✅ Yes / 是          |
 | < 3.0          | ❌ No / 否           |
 

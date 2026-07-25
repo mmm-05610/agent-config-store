@@ -14,8 +14,8 @@ Fixes #
 <!-- If applicable, add before/after screenshots. / 如有需要，请添加修改前后的截图。 -->
 
 | Before / 修改前 | After / 修改后 |
-|-----------------|---------------|
-|                 |               |
+| --------------- | -------------- |
+|                 |                |
 
 ## Checklist / 检查清单
 

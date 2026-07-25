@@ -36,15 +36,15 @@ pnpm dev
 
 ### Useful Commands
 
-| Command | Description |
-|---------|-------------|
-| `pnpm dev` | Start dev server (hot reload) |
-| `pnpm build` | Production build |
-| `pnpm typecheck` | TypeScript type checking |
-| `pnpm test:unit` | Run unit tests |
-| `pnpm lint` | ESLint check |
-| `pnpm format` | Format code (Prettier) |
-| `pnpm format:check` | Check code formatting |
+| Command             | Description                   |
+| ------------------- | ----------------------------- |
+| `pnpm dev`          | Start dev server (hot reload) |
+| `pnpm build`        | Production build              |
+| `pnpm typecheck`    | TypeScript type checking      |
+| `pnpm test:unit`    | Run unit tests                |
+| `pnpm lint`         | ESLint check                  |
+| `pnpm format`       | Format code (Prettier)        |
+| `pnpm format:check` | Check code formatting         |
 
 For Rust backend:
 
@@ -164,15 +164,15 @@ pnpm dev
 
 ### 常用命令
 
-| 命令 | 说明 |
-|------|------|
-| `pnpm dev` | 启动开发服务器（热重载） |
-| `pnpm build` | 构建生产版本 |
-| `pnpm typecheck` | TypeScript 类型检查 |
-| `pnpm test:unit` | 运行单元测试 |
-| `pnpm lint` | ESLint 检查 |
-| `pnpm format` | 格式化代码（Prettier） |
-| `pnpm format:check` | 检查代码格式 |
+| 命令                | 说明                     |
+| ------------------- | ------------------------ |
+| `pnpm dev`          | 启动开发服务器（热重载） |
+| `pnpm build`        | 构建生产版本             |
+| `pnpm typecheck`    | TypeScript 类型检查      |
+| `pnpm test:unit`    | 运行单元测试             |
+| `pnpm lint`         | ESLint 检查              |
+| `pnpm format`       | 格式化代码（Prettier）   |
+| `pnpm format:check` | 检查代码格式             |
 
 Rust 后端命令：
 
